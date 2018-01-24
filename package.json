@@ -1,7 +1,7 @@
 {
-  "name": "testapp",
+  "name": "cra-site-webdeploy",
   "description": "",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://app002-ohxyu.pd.bitpod.io/ui/ssdd",
   "dependencies": {
     "react-dom": "16.0.0",
