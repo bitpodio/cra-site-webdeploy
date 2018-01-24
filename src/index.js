@@ -8,7 +8,7 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <h2>Hello gg bitpod</h2>
+    <h2>Hello survey bitpod</h2>
   </div>
 );
 
